@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_color_1">#FFCFF0E3</color>
+    <color name="main_color_2">#FF68BEB6</color>
+    <color name="main_color_3">#FFF4FFFB</color>
+    <color name="main_color_4">#FFE6F4F4</color>
+    <color name="main_color_5">#FF018C8B</color>
+    <color name="button_color_1">#FF018C8B</color>
+    <color name="button_color_2">#FF018C8B</color>
+    <color name="button_color_3">#FFE6F3EE</color>
+    <color name="button_color_4">#FF71C2C3</color>
+    <color name="text_color_1">#FF000000</color>
+    <color name="text_color_2">#FF2D4345</color>
+    <color name="clickable_text">#FF018C8B</color>
+    <color name="input_field">#FF8D8D8D</color>
+    <color name="error">#FFE36068</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="stroke_text">#018C8B</color>
+    <color name="stroke_text2">#80018C8B</color>
+    <color name="black_new">#67000000</color>
+</resources>
